@@ -1,0 +1,79 @@
+# Title: ps4_dns_block/phoanglong
+#
+# This hosts file is a merged collection of hosts from depressive_monk
+# to disable any update from ps4. I'm just creating GitHub Raw Hosts data so everyone can use
+# This work is by depressive_monk, please give all the credit to him
+# https://www.reddit.com/user/depressive_monk/
+# Date: 20 Feb 2026
+# 
+# Added URLs to avoid further psn domains
+# 
+# ===============================================================
+127.0.0.1 dau01.ps4.update.playstation.net
+127.0.0.1 dbr01.ps4.update.playstation.net
+127.0.0.1 dcn01.ps4.update.playstation.net
+127.0.0.1 deu01.ps4.update.playstation.net
+127.0.0.1 dhk01.ps4.update.playstation.net
+127.0.0.1 djp01.ps4.update.playstation.net
+127.0.0.1 dkr01.ps4.update.playstation.net
+127.0.0.1 dmx01.ps4.update.playstation.net
+127.0.0.1 dru01.ps4.update.playstation.net
+127.0.0.1 dsa01.ps4.update.playstation.net
+127.0.0.1 dtw01.ps4.update.playstation.net
+127.0.0.1 duk01.ps4.update.playstation.net
+127.0.0.1 dus01.ps4.update.playstation.net
+127.0.0.1 fau01.ps4.update.playstation.net
+127.0.0.1 fbr01.ps4.update.playstation.net
+127.0.0.1 fcn01.ps4.update.playstation.net
+127.0.0.1 feu01.ps4.update.playstation.net
+127.0.0.1 fhk01.ps4.update.playstation.net
+127.0.0.1 fjp01.ps4.update.playstation.net
+127.0.0.1 fkr01.ps4.update.playstation.net
+127.0.0.1 fmx01.ps4.update.playstation.net
+127.0.0.1 fru01.ps4.update.playstation.net
+127.0.0.1 fsa01.ps4.update.playstation.net
+127.0.0.1 ftw01.ps4.update.playstation.net
+127.0.0.1 fuk01.ps4.update.playstation.net
+127.0.0.1 fus01.ps4.update.playstation.net
+127.0.0.1 hau01.ps4.update.playstation.net
+127.0.0.1 hbr01.ps4.update.playstation.net
+127.0.0.1 hcn01.ps4.update.playstation.net
+127.0.0.1 heu01.ps4.update.playstation.net
+127.0.0.1 hhk01.ps4.update.playstation.net
+127.0.0.1 hjp01.ps4.update.playstation.net
+127.0.0.1 hkr01.ps4.update.playstation.net
+127.0.0.1 hmx01.ps4.update.playstation.net
+127.0.0.1 hru01.ps4.update.playstation.net
+127.0.0.1 hsa01.ps4.update.playstation.net
+127.0.0.1 htw01.ps4.update.playstation.net
+127.0.0.1 huk01.ps4.update.playstation.net
+127.0.0.1 hus01.ps4.update.playstation.net
+127.0.0.1 a01.cdn.update.playstation.org.edgesuite.net
+127.0.0.1 a192.d.akamai.net
+127.0.0.1 al02.cdn.update.playstation.net
+127.0.0.1 apicdn-p014.ribob01.net
+127.0.0.1 api-p014.ribob01.net
+127.0.0.1 artcdnsecure.ribob01.net
+127.0.0.1 asm.np.community.playstation.net
+127.0.0.1 get.net.playstation.net
+127.0.0.1 playstation.sony.akadns.net
+127.0.0.1 post.net.playstation.net
+127.0.0.1 ps4-eb.ww.np.dl.playstation.net
+127.0.0.1 ps4updptl.eu.np.community.playstation.net
+127.0.0.1 ps4updptl.jp.sp-int.community.playstation.net
+127.0.0.1 ps4.updptl.sp-int.community.playstation.net
+127.0.0.1 sf.api.np.km.playstation.net
+127.0.0.1 themis.dl.playstation.net
+127.0.0.1 tmdb.np.dl.playstation.net
+127.0.0.1 t-prof.np.community.playstation.net
+127.0.0.1 event.api.np.km.playstation.net
+127.0.0.1 ps4-system.sec.np.dl.playstation.net
+127.0.0.1 event.api.np.km.playstation.net
+127.0.0.1 ps4updptl.uk.np.community.playstation.net
+127.0.0.1 static-resource.np.community.playstation.net
+127.0.0.1 csla.np.community.playstation.net
+127.0.0.1 us.np.stun.playstation.net
+127.0.0.1 fswitch.dl.playstation.net
+127.0.0.1 rnps-crl.dl.playstation.net
+127.0.0.1 urlconfig.api.playstation.com
+127.0.0.1 crepo.ww.dl.playstation.net
