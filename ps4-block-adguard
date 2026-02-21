@@ -77,27 +77,11 @@
 127.0.0.1 urlconfig.api.playstation.com
 127.0.0.1 crepo.ww.dl.playstation.net
 # update 2026-02
-# 127.0.0.1 ps4updptl.uk.np.community.playstation.net
-127.0.0.1 csla.np.community.playstation.net
 127.0.0.1 friends.rnps.dl.playstation.net
-127.0.0.1 urlconfig.api.playstation.com
-127.0.0.1 us.np.stun.playstation.net
 # resort
-127.0.0.1 ps4-system.sec.np.dl.playstation.net
 127.0.0.1 ena.net.playstation.net
-127.0.0.1 post.net.playstation.net
 127.0.0.1 gs2.ww.prod.dl.playstation.net
 127.0.0.1 theia.dl.playstation.net
 127.0.0.1 gs2-sec.ww.prod.dl.playstation.net
 127.0.0.1 party.rnps.dl.playstation.net
-127.0.0.1 tmdb.np.dl.playstation.net
 127.0.0.1 gs-sec.ww.np.dl.playstation.net
-127.0.0.1 fswitch.dl.playstation.net
-127.0.0.1 fuk01.ps4.update.playstation.net
-127.0.0.1 rnps-crl.dl.playstation.net
-#127.0.0.1 
-#127.0.0.1 
-#127.0.0.1 
-
-
-
