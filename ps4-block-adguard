@@ -72,7 +72,7 @@
 127.0.0.1 static-resource.np.community.playstation.net
 127.0.0.1 csla.np.community.playstation.net
 # not needed for interet access
-127.0.0.1 us.np.stun.playstation.net
+# 127.0.0.1 us.np.stun.playstation.net
 127.0.0.1 fswitch.dl.playstation.net
 # 127.0.0.1 rnps-crl.dl.playstation.net
 127.0.0.1 urlconfig.api.playstation.com
