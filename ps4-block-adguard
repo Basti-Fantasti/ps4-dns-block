@@ -80,7 +80,7 @@
 # update 2026-02
 127.0.0.1 friends.rnps.dl.playstation.net
 # resort
-127.0.0.1 ena.net.playstation.net
+# 127.0.0.1 ena.net.playstation.net
 127.0.0.1 gs2.ww.prod.dl.playstation.net
 127.0.0.1 theia.dl.playstation.net
 127.0.0.1 gs2-sec.ww.prod.dl.playstation.net
