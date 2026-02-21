@@ -66,7 +66,7 @@
 127.0.0.1 themis.dl.playstation.net
 127.0.0.1 tmdb.np.dl.playstation.net
 127.0.0.1 t-prof.np.community.playstation.net
-127.0.0.1 event.api.np.km.playstation.net
+# 127.0.0.1 event.api.np.km.playstation.net
 127.0.0.1 ps4-system.sec.np.dl.playstation.net
 127.0.0.1 ps4updptl.uk.np.community.playstation.net
 127.0.0.1 static-resource.np.community.playstation.net
@@ -85,4 +85,4 @@
 127.0.0.1 theia.dl.playstation.net
 127.0.0.1 gs2-sec.ww.prod.dl.playstation.net
 127.0.0.1 party.rnps.dl.playstation.net
-127.0.0.1 gs-sec.ww.np.dl.playstation.net
+# 127.0.0.1 gs-sec.ww.np.dl.playstation.net
